@@ -9,9 +9,9 @@ bin-release/
 .decrypted/
 
 # Executables
-*.swf
-*.air
-*.ipa
+*.htm
+*.html
+*.png
 *.apk
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
